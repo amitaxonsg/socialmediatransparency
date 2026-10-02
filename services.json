@@ -1,0 +1,21 @@
+[
+{"id":"30836","platform":"YouTube","type":"Subscribers","name":"YouTube Subscribers","rate":0.2379,"min":10,"max":50000},
+{"id":"30935","platform":"YouTube","type":"Views","name":"YouTube Views — HR, no-drop listing","rate":0.5664,"min":100,"max":10000000},
+{"id":"30508","platform":"YouTube","type":"Likes","name":"YouTube Likes","rate":1.18,"min":10,"max":30000},
+{"id":"36125","platform":"Instagram","type":"Views","name":"Instagram Views — Instant","rate":0.0019,"min":100,"max":1000000000},
+{"id":"36643","platform":"Instagram","type":"Likes","name":"Instagram Likes","rate":0.0449,"min":10,"max":5000000},
+{"id":"36642","platform":"Instagram","type":"Followers","name":"Instagram Followers HQ","rate":2.242,"min":100,"max":1000000},
+{"id":"36645","platform":"TikTok","type":"Views","name":"TikTok Views","rate":0.0157,"min":100,"max":500000000},
+{"id":"31881","platform":"TikTok","type":"Likes","name":"TikTok Likes","rate":0.177,"min":10,"max":10000000},
+{"id":"31869","platform":"TikTok","type":"Followers","name":"TikTok Followers","rate":1.534,"min":10,"max":5000000},
+{"id":"32147","platform":"Facebook","type":"Followers","name":"Facebook Followers","rate":0.2493,"min":50,"max":500000},
+{"id":"31404","platform":"Facebook","type":"Live Stream","name":"Facebook Live Stream Views — 15 min","rate":0.295,"min":10,"max":500000},
+{"id":"36644","platform":"Telegram","type":"Views","name":"Telegram Post Views","rate":0.0035,"min":1000,"max":100000},
+{"id":"17427","platform":"X / Twitter","type":"Views","name":"X / Twitter Tweet Views","rate":0.0012,"min":100,"max":100000000},
+{"id":"30760","platform":"Threads","type":"Likes","name":"Threads Likes","rate":1.84,"min":10,"max":5000},
+{"id":"30767","platform":"Pinterest","type":"Likes","name":"Pinterest Likes","rate":1.84,"min":10,"max":5000},
+{"id":"3267","platform":"Twitch","type":"Followers","name":"Twitch Followers","rate":1.40,"min":20,"max":50000},
+{"id":"28250","platform":"Spotify","type":"Plays","name":"Spotify Plays","rate":0.3682,"min":1000,"max":100000000},
+{"id":"33597","platform":"WhatsApp","type":"Members","name":"WhatsApp Channel Members","rate":0.2493,"min":10,"max":20000},
+{"id":"20938","platform":"LinkedIn","type":"Likes","name":"LinkedIn Likes","rate":38.3823,"min":5,"max":100000}
+]
